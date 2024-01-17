@@ -1,5 +1,5 @@
 <h1 align="center">₱𝕣𝕠𝕗𝕚𝕝𝕖 𝕠𝕗 ㄣㄥ乇乂</h1>
-<h3 align="center">self-taught student.</h3>
+<h3 align="center">self-taught student</h3>
 
 <br>
 
