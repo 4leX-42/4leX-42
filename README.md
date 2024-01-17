@@ -39,7 +39,6 @@
   </p>
 
   <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
       <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
     </a>
   </p>
