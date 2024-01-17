@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Arbusto</b>
+  <b>Abhigyan Trips</b>
 </h1>
 
-¡Hola! Soy Arbusto, actualmente vivo en Numancia de la Sagra, España. Estoy preparándome para 
-<a href="https://es.wikipedia.org/wiki/Tu_Examen">Tu Examen</a>, 
-y aprendiendo programación a través de pequeños proyectos.
+Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+and learning programming through small projects  on the side.
 
 <br>
 
@@ -17,32 +17,47 @@ y aprendiendo programación a través de pequeños proyectos.
 </p>
 
 ```python
-class Arbusto():
+class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Arbusto";
-    self.username = "arbusto";
-    self.location = "Numancia de la Sagra, España";
-    self.twitter = "@arbusto";
-    self.web = "https://arbusto.dev";
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = Arbusto()
+    me = AbhigyanTrips()
+```
 
-<div align=“center”> <a href=“https://open.spotify.com/user/tu_usuario_spotify”> <img src=“https://readme-spotify-tingz.vercel.app/api/now-playing”> </a> </div>
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
-<!– <div align=“center”> <a href=“https://open.spotify.com/user/tu_usuario_spotify”> <img src=“https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark” width=“240px”> </a> </div> –>
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
-Mis Estadísticas
-<br/> <p align=“left”> <a href=“https://arbusto.dev/”> <img width=“49.5%” src=“https://github-readme-stats.vercel.app/api?username=arbusto&show_icons=true&theme=gruvbox&hide_border=true” /> <img width=“49.5%” src=“https://github-readme-streak-stats.herokuapp.com/?user=arbusto&theme=gruvbox&hide_border=true” /> </a> </p> <br>
+## My Statistics
 
-!Arbusto’s Activity Graph
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-Crédito: arbusto
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-Última edición: 24/12/2021
-
-<div align=“center”> <a href=“https://monkeytype.com/profile/Arbusto”> <img src=“https://monkeytype.com/profile/Arbusto”> </a> </div>
+------
