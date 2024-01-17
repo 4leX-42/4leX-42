@@ -108,7 +108,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://monkeytype.com/profile/Arbusto" target="blank"><img align="center"
-      src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://cdn.pixabay.com/photo/2016/11/26/19/29/angel-1861486_1280.png)"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
