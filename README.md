@@ -31,3 +31,18 @@ class Arbusto():
 
 if __name__ == '__main__':
     me = Arbusto()
+
+<div align=“center”> <a href=“https://open.spotify.com/user/tu_usuario_spotify”> <img src=“https://readme-spotify-tingz.vercel.app/api/now-playing”> </a> </div>
+
+<!– <div align=“center”> <a href=“https://open.spotify.com/user/tu_usuario_spotify”> <img src=“https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark” width=“240px”> </a> </div> –>
+
+Mis Estadísticas
+<br/> <p align=“left”> <a href=“https://arbusto.dev/”> <img width=“49.5%” src=“https://github-readme-stats.vercel.app/api?username=arbusto&show_icons=true&theme=gruvbox&hide_border=true” /> <img width=“49.5%” src=“https://github-readme-streak-stats.herokuapp.com/?user=arbusto&theme=gruvbox&hide_border=true” /> </a> </p> <br>
+
+!Arbusto’s Activity Graph
+
+Crédito: arbusto
+
+Última edición: 24/12/2021
+
+<div align=“center”> <a href=“https://monkeytype.com/profile/Arbusto”> <img src=“https://monkeytype.com/profile/Arbusto”> </a> </div>
