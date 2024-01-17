@@ -42,8 +42,8 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
-      https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
-
+      [url=https://youtube.com/channel/UCVEm59T1c_vNK4UwXOy7diA] ːcsgogunː 𝓒𝓪𝓷𝓪𝓵 𝓭𝓮 𝓨𝓣 ːbatsymbolː  [/url]
+      
 <br>
 
 <h3>Statistical Data :-</h3>
