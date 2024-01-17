@@ -32,7 +32,7 @@
 <p align="center">
   
   <i>
-    <span style="font-size: 28px;">𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</span>
+    <span style="font-size: 35px;">𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</span>
   </i>
 
   <p align="center">
