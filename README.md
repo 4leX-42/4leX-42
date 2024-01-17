@@ -30,7 +30,7 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/%CA%8C%E2%84%93%EF%BB%89%E2%9C%96-059338264/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
