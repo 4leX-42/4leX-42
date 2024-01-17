@@ -108,8 +108,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://monkeytype.com/profile/Arbusto" target="blank"><img align="center"
-      src="<https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg>"
-      alt="_._.adam._" height="30" width="40" /></a>
+      src="<https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ansible.svg>"
+      alt="Arbusto" height="30" width="40" /></a>
 </p>
 
 <br>
