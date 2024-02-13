@@ -1,5 +1,5 @@
 <div align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+<picture><img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width = 50px align="center"></picture> 
 </div>
 
 
@@ -32,7 +32,9 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </p>
-
+<div align="center">
+<picture><img src="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-gerryspongebob.gif" width = 50px align="center"></picture> 
+</div>
   <h2 align="center">📋 Programming Languages</h2>
 
   <p align="center">
