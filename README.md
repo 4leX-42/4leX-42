@@ -38,6 +38,7 @@
   </ul>
 </div>
 <hr>
+</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
   <i>
     <span style="font-size: 52px; margin-left: 100px;">𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</span>
