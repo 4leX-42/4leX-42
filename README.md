@@ -55,7 +55,7 @@
 <!-- Section with header and horizontal rule -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">"𝐎𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐬 𝐠𝐨𝐧𝐧𝐚 𝐛𝐞𝐚𝐭 𝐭𝐚𝐥𝐞𝐧𝐭 𝐞𝐯𝐞𝐫𝐲 𝐭𝐢𝐦𝐞"</h2></summary>
   </ul>
 </div>
 <hr>
