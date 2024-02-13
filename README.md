@@ -40,7 +40,7 @@
 <hr>
 <p align="center">
   <i>
-    <span style="font-size: 32px;">𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</s</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+    <span style="font-size: 32px;">𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</s       </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
   </i>
   <p align="center">
     <a href="https://www.linkedin.com/in/%CA%8C%E2%84%93%EF%BB%89%E2%9C%96-059338264/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
