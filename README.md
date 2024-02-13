@@ -1,3 +1,12 @@
+<div align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+</div>
+
+
+
+
+
+
 <h1 align="center">₱𝕣𝕠𝕗𝕚𝕝𝕖 𝕠𝕗 ㄣㄥ乇乂</h1>
 <h3 align="center">self-taught student</h3>
 
