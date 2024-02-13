@@ -37,7 +37,7 @@
       <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
   <div align="center">
-<picture><img src="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-gerryspongebob.gif" width = 50px align="center"></picture> 
+<picture><img src="https://media.baamboozle.com/uploads/images/318712/460ad1d4-3474-4f82-9d4b-2b55a9c568ff.gif" width = 100px align="center"></picture> 
 </div>
    <h2 align="center">🧰 Softwares and Tools</h2>
 
