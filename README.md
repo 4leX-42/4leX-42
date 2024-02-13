@@ -22,19 +22,6 @@
 <details>
   <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 𝙖𝙣𝙙 𝙩𝙚𝙨𝙩𝙨 ....</summary>
   <br>
-
-  <h2 align="center">🧰 Softwares and Tools</h2>
-
-  <p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </p>
-<div align="center">
-<picture><img src="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-gerryspongebob.gif" width = 50px align="center"></picture> 
-</div>
   <h2 align="center">📋 Programming Languages</h2>
 
   <p align="center">
@@ -48,6 +35,18 @@
       <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank">
       <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+  </p>
+  <div align="center">
+<picture><img src="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-gerryspongebob.gif" width = 50px align="center"></picture> 
+</div>
+   <h2 align="center">🧰 Softwares and Tools</h2>
+
+  <p align="center">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </p>
   <br>
 </details>
