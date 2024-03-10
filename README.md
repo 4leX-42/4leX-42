@@ -73,7 +73,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/4lex42/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
   <a href="mailto:alexandreu.adc@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  <a href="https://youtu.be/887OnB4dBBI" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  <a href="https://www.youtube.com/watch?v=nX6uqxJs7P8&pp=ygUKQk1XIE01IEY5MA%3D%3D" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
 </p>
 
 <!-- Bottom image -->
