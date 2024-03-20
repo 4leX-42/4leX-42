@@ -2,11 +2,6 @@
 <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width = 50px align="center"></picture> 
 </div>
 
-
-
-
-
-
 <h1 align="center">₱𝕣𝕠𝕗𝕚𝕝𝕖 𝕠𝕗 ㄣㄥ乇乂</h1>
 <h3 align="center">self-taught student</h3>
 
@@ -37,7 +32,7 @@
       <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
   <div align="center">
-<picture><img src="https://media.baamboozle.com/uploads/images/318712/460ad1d4-3474-4f82-9d4b-2b55a9c568ff.gif" width = 100px align="center"></picture> 
+<picture><img src="https://media.giphy.com/media/xT9Igo3sKbI29kWr3a/giphy.gif" width = 100px align="center"></picture> 
 </div>
    <h2 align="center">🧰 Softwares and Tools</h2>
 
@@ -62,18 +57,17 @@
 
 <!-- Image with text -->
 <p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+  
 </p>
 <p align="center">
   <i>
-    <span style="font-size: 52px;">𝕟𝕖𝕥𝕨𝕠𝕣𝕜𝕤</span>
+    <a alt="Contact me"><img src="https://i0.wp.com/lessortech.com/wp-content/uploads/2021/08/contact.png?fit=1860%2C494&ssl=1" alt="Contact me" style="width: 200px;"></a>
   </i>
 </p>
 <!-- Links and icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/4lex42/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-  <a href="mailto:alexandreu.adc@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  <a href="https://youtu.be/0S2NbZQgD7w" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  <a href="https://www.linkedin.com/in/4lex42/" alt="Linkedin"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" style="width: 50px;"></a>
+  <a href="mailto:alexandreu.adc@gmail.com" alt="Contact me"><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" alt="Contact me" style="width: 50px;"></a>
 </p>
 
 <!-- Bottom image -->
