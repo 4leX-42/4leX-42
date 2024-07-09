@@ -54,19 +54,8 @@
   </ul>
 </div>
 <hr>
-
-<!-- Image with text -->
-<p align="center">
-  
-</p>
-<p align="center">
-  <i>
-    <a alt="Contact me"><img src="https://i0.wp.com/lessortech.com/wp-content/uploads/2021/08/contact.png?fit=1860%2C494&ssl=1" alt="Contact me" style="width: 200px;"></a>
-  </i>
-</p>
 <!-- Links and icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/4lex42/" alt="Linkedin"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" style="width: 50px;"></a>
   <a href="mailto:alexandreu.adc@gmail.com" alt="Contact me"><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" alt="Contact me" style="width: 50px;"></a>
 </p>
 
