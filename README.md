@@ -1,5 +1,5 @@
 <div align="center">
-<picture><img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width = 50px align="center"></picture> 
+  <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="50px" align="center"></picture> 
 </div>
 
 <h1 align="center">₱𝕣𝕠𝕗𝕚𝕝𝕖 𝕠𝕗 ㄣㄥ乇乂</h1>
@@ -22,30 +22,31 @@
   <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
       <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-      <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://www.python.org" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img alt="React" src="https://img.shields.io/badge/React-%23282C34.svg?logo=react&logoColor=61DAFB"></a>
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E44D26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
   </p>
-  <div align="center">
-<picture><img src="https://media.giphy.com/media/xT9Igo3sKbI29kWr3a/giphy.gif" width = 100px align="center"></picture> 
-</div>
-   <h2 align="center">🧰 Softwares and Tools</h2>
+
+  <h2 align="center">🧰 Softwares and Tools</h2>
 
   <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="VMware" src="https://img.shields.io/badge/VMware-%230C56A0.svg?logo=vmware&logoColor=white">
+    <img alt="CMD PowerShell" src="https://img.shields.io/badge/CMD%20PowerShell-%23121011.svg?logo=windows-terminal&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </p>
   <br>
 </details>
-
 
 <!-- Section with header and horizontal rule -->
 <div id="user-content-toc">
