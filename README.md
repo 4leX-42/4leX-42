@@ -29,10 +29,9 @@
 <h2 align="center">🔥 Tech Stack</h2>
 <div align="center">
   
-  ### 🔐 Cybersecurity Core
+  ### 📑 Programming languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Assembly](https://img.shields.io/badge/Assembly-8E0E87?style=for-the-badge&logo=assemblyscript&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
   ### 🌐 Web & Networking
