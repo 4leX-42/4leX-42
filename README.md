@@ -54,12 +54,6 @@
   ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 </div>
 
-<!-- Final Quote -->
-<div align="center" style="margin-top: 40px;">
-  <h2>⚡</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&duration=4000&pause=1000&color=00B300&center=true&vCenter=true&width=500&lines=%22𝙾̷𝚋̷𝚜̷𝚎̷𝚜̷𝚜̷𝚒̷𝚘̷𝚗̷+𝚋̷𝚎̷𝚊̷𝚝̷𝚜̷+𝚝̷𝚊̷𝚕̷𝚎̷𝚗̷𝚝̷%22" alt="Motivational Quote">
-</div>
-
 <!-- Connect Section -->
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
