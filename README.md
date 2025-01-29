@@ -1,64 +1,81 @@
 <div align="center">
-  <picture><img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="50px" align="center"></picture> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
+    <img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="100px" alt="Hacker GIF">
+  </picture>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=tuusername&color=blueviolet&style=flat-square)
+  ![Hack the Box](https://img.shields.io/badge/Hack%20the%20Box-111827?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 </div>
 
-<h1 align="center">₱𝕣𝕠𝕗𝕚𝕝𝕖 𝕠𝕗 ㄣㄥ乇乂</h1>
-<h3 align="center">self-taught student</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=35&duration=4000&pause=1000&color=00B300&center=true&vCenter=true&width=500&lines=𝙾̷𝚋̷𝚜̷𝚎̷𝚜̷𝚜̷𝚒̷𝚘̷𝚗̷ 𝚋̷𝚎̷𝚊̷𝚝̷𝚜̷ 𝚝̷𝚊̷𝚕̷𝚎̷𝚗̷𝚝̷">
+  </a>
+</h1>
 
-<!-- Horizontal divider (gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">🖥️ Self-Taught Student | 🛡️ Cybersecurity Enthusiast | 🚀 Open Source Contributor</h3>
 
-<!-- Table of Contents -->
-<div id="user-content-toc">
-  <ul align="center">
-  </ul>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+
+<!-- Stats Grid -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4leX-42&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4leX-42&layout=compact&langs_count=8&theme=nightowl"/>
 </div>
 
-<details>
-  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨 𝙖𝙣𝙙 𝙩𝙚𝙨𝙩𝙨 ....</summary>
-  <br>
-  <h2 align="center">📋 Programming Languages</h2>
-
-  <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank">
-      <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://www.python.org" target="_blank">
-      <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="React" src="https://img.shields.io/badge/React-%23282C34.svg?logo=react&logoColor=61DAFB"></a>
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E44D26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
-  </p>
-
-  <h2 align="center">🧰 Softwares and Tools</h2>
-
-  <p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img alt="VMware" src="https://img.shields.io/badge/VMware-%230C56A0.svg?logo=vmware&logoColor=white">
-    <img alt="CMD PowerShell" src="https://img.shields.io/badge/CMD%20PowerShell-%23121011.svg?logo=windows-terminal&logoColor=white">
-    <img alt="Bash" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </p>
-  <br>
-</details>
-
-<!-- Section with header and horizontal rule -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">"𝐎𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐬 𝐠𝐨𝐧𝐧𝐚 𝐛𝐞𝐚𝐭 𝐭𝐚𝐥𝐞𝐧𝐭 𝐞𝐯𝐞𝐫𝐲 𝐭𝐢𝐦𝐞"</h2></summary>
-  </ul>
+<!-- Skills Section -->
+<h2 align="center">🔥 Tech Stack</h2>
+<div align="center">
+  
+  ### 🔐 Cybersecurity Core
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Assembly](https://img.shields.io/badge/Assembly-8E0E87?style=for-the-badge&logo=assemblyscript&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+  ### 🌐 Web & Networking
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+  ### ⚡ Hacking Toolkit
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+  
+  ### 💻 Development Essentials
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 </div>
-<hr>
-<!-- Links and icons -->
+
+<!-- Final Quote -->
+<div align="center" style="margin-top: 40px;">
+  <h2>⚡</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&duration=4000&pause=1000&color=00B300&center=true&vCenter=true&width=500&lines=%22𝙾̷𝚋̷𝚜̷𝚎̷𝚜̷𝚜̷𝚒̷𝚘̷𝚗̷+𝚋̷𝚎̷𝚊̷𝚝̷𝚜̷+𝚝̷𝚊̷𝚕̷𝚎̷𝚗̷𝚝̷%22" alt="Motivational Quote">
+</div>
+
+<!-- Connect Section -->
+<h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
-  <a href="mailto:alexandreu.adc@gmail.com" alt="Contact me"><img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" alt="Contact me" style="width: 50px;"></a>
+  <a href="mailto:alexandreu.adc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/tuperfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://tryhackme.com/p/tuperfil">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://discordapp.com/users/tuid">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
-<!-- Bottom image -->
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer">
