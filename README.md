@@ -62,12 +62,12 @@
   <a href="https://linkedin.com/in/tuperfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://tryhackme.com/p/tuperfil">
+  <a href="https://tryhackme.com/r/p/4lex.42">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://discordapp.com/users/tuid">
+</a>
+  <a href="https://discordapp.com/users/4lex.42">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+</a>
 </p>
 
 <!-- Footer -->
