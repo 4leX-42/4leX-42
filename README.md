@@ -3,8 +3,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
     <img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="100px" alt="Hacker GIF">
   </picture>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=tuusername&color=blueviolet&style=flat-square)
 </div>
 
 <h1 align="center">
