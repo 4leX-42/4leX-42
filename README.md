@@ -1,16 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif">
-    <img src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif" width="100px" alt="Hacker GIF">
-  </picture>
-</div>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=35&duration=4000&pause=1000&color=00B300&center=true&vCenter=true&width=500&lines=𝙾̷𝚋̷𝚜̷𝚎̷𝚜̷𝚜̷𝚒̷𝚘̷𝚗̷ 𝚋̷𝚎̷𝚊̷𝚝̷𝚜̷ 𝚝̷𝚊̷𝚕̷𝚎̷𝚗̷𝚝̷">
-  </a>
-</h1>
-
 <h3 align="center">🖥️ Self-Taught Student | 🛡️ Cybersecurity Enthusiast | 🚀 Open Source Contributor</h3>
 
 <!-- Divider -->
