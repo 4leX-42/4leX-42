@@ -1,4 +1,4 @@
-<h2 align="center">🖥️ Self-Taught Student | 🛡️ Cybersecurity Enthusiast | 🚀 Open Source Contributor</h2>
+<h2 align="center">🖥️ SysAdmin | 🛡️ Cybersecurity Enthusiast | 🚀 Open Source Contributor</h2>
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
@@ -32,6 +32,7 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows Terminal](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
   ### 🧰 Development Essentials
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
