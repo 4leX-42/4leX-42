@@ -1,4 +1,7 @@
-<h2 align="center">🖥️ SysAdmin | 🛡️ Cybersecurity Enthusiast | 🚀 Open Source Contributor</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=26&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&height=80&lines=Alex%20Andreu%20-%20Self-taught%20Programmer;SysAdmin%20%7C%20Security%20Specialist%20%7C%20OSS" alt="Typing Header">
+</div>
+</div>
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
