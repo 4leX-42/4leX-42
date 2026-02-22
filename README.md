@@ -1,9 +1,9 @@
-<!-- HEADER enfocado a CloudOps & Automation -->
+<!-- HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=F0F0F0&center=true&vCenter=true&width=750&height=80&lines=%3E_+IT+INFRASTRUCTURES;%3E_+CLOUDOPS;%3E_+AUTOMATION+LEARNER;%3E_+DEVOPS+ROAD" alt="Typing Header" />
 </div>
 
-<!-- Divisor rojo sangre -->
+<!-- Color -->
 <pre align="center" style="color:#8B0000;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
 
 <!-- CLOUD PLATFORMS -->
@@ -12,21 +12,31 @@
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure(IaaS/PaaS/SaaS)-2b2b2b?style=flat-square&logo=microsoft-azure&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Microsoft_365-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/SharePoint-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/M365 · D365-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
 </p>
 
-<!-- INFRASTRUCTURE AS CODE & AUTOMATION -->
+<!-- AUTOMATION & IaC -->
 <h3 align="center">
-  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">AUTOMATION & IaC</span> <span style="color:#F0F0F0;">]</span>
+  <span style="color:#F0F0F0;">[</span> 
+  <span style="color:#8B0000;">AUTOMATION & IaC</span> 
+  <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-2b2b2b?style=flat-square&logo=powershell&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Bash-2b2b2b?style=flat-square&logo=gnu-bash&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Git/GitHub-2b2b2b?style=flat-square&logo=git&logoColor=cccccc" />
+</p>
+
+<!-- DEVICE PROVISIONING -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> 
+  <span style="color:#8B0000;">DEVICE PROVISIONING</span> 
+  <span style="color:#F0F0F0;">]</span>
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Zero--Touch_Provisioning(ZTP)-2b2b2b?style=flat-square&logo=ansible&logoColor=cccccc" />
   <img src="https://img.shields.io/badge/Windows_Autopilot-2b2b2b?style=flat-square&logo=windows&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Bash-2b2b2b?style=flat-square&logo=gnu-bash&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Git/GitHub-2b2b2b?style=flat-square&logo=git&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/C-2b2b2b?style=flat-square&logo=c&logoColor=cccccc" />
 </p>
 
 <!-- VIRTUALIZATION & HYBRID ENVIRONMENTS -->
