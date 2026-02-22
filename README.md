@@ -39,15 +39,6 @@
   <img src="https://img.shields.io/badge/Windows_Autopilot-2b2b2b?style=flat-square&logo=windows&logoColor=cccccc" />
 </p>
 
-<!-- VIRTUALIZATION & HYBRID ENVIRONMENTS -->
-<h3 align="center">
-  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">VIRTUALIZATION & HYBRID</span> <span style="color:#F0F0F0;">]</span>
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Virtual_Machines-2b2b2b?style=flat-square&logo=virtualbox&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/On--Premise/Cloud_Hybrid-2b2b2b?style=flat-square&logo=cloud&logoColor=cccccc" />
-</p>
-
 <!-- NETWORKING -->
 <h3 align="center">
   <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">NETWORKING</span> <span style="color:#F0F0F0;">]</span>
@@ -80,39 +71,16 @@
   <img src="https://img.shields.io/badge/macOS-2b2b2b?style=flat-square&logo=apple&logoColor=cccccc" />
 </p>
 
-<!-- MONITORING & SUPPORT -->
-<h3 align="center">
-  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">MONITORING & SUPPORT</span> <span style="color:#F0F0F0;">]</span>
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Hardware_Diagnosis-2b2b2b?style=flat-square&logo=hardware&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Technical_Support-2b2b2b?style=flat-square&logo=support&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Documentation-2b2b2b?style=flat-square&logo=readthedocs&logoColor=cccccc" />
-</p>
-
-<!-- ADDITIONAL TOOLS (WEB, MULTIMEDIA) -->
-<h3 align="center">
-  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">ADDITIONAL TOOLS</span> <span style="color:#F0F0F0;">]</span>
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/CSS3-2b2b2b?style=flat-square&logo=css3&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=cccccc" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere-2b2b2b?style=flat-square&logo=adobe-premiere-pro&logoColor=cccccc" />
-</p>
-
 <!-- Divisor rojo -->
 <pre align="center" style="color:#8B0000;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
 
-<!-- METHODOLOGY (soft skills) -->
+<!-- OPERATING MODEL -->
 <h3 align="center">
-  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">METHODOLOGY</span> <span style="color:#F0F0F0;">]</span>
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">WORK APPROACH</span> <span style="color:#F0F0F0;">]</span>
 </h3>
 <p align="center" style="color:#cccccc; font-family: monospace;">
-  ⚡ P2P knowledge sharing · Zero-touch mindset · Documentation-first · Automation-first
+   P2P enablement · Zero-Touch deployment · Governance-driven design · Scalable automation
 </p>
-
 <!-- CONTACT (enlaces funcionales) -->
 <h3 align="center">
   <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">ESTABLISH CONNECTION</span> <span style="color:#F0F0F0;">]</span>
