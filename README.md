@@ -1,64 +1,122 @@
+<!-- HEADER enfocado a CloudOps & Automation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=26&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&height=80&lines=Alejandro%20Andreu%20-%20Self-taught%20Programmer;SysAdmin%20%7C%20Security%20Specialist%20%7C%20OSS" alt="Typing Header">
-</div>
-</div>
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-
-<!-- Stats Grid -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4leX-42&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4leX-42&layout=compact&langs_count=8&theme=nightowl"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=F0F0F0&center=true&vCenter=true&width=750&height=80&lines=%3E_+IT+INFRASTRUCTURES;%3E_+CLOUDOPS;%3E_+AUTOMATION+LEARNER;%3E_+DEVOPS+ROAD" alt="Typing Header" />
 </div>
 
-<!-- Skills Section -->
-<h2 align="center">🔥 Tech Stack</h2>
-<div align="center">
-  
-  ### 📚 Programming Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Divisor rojo sangre -->
+<pre align="center" style="color:#8B0000;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
 
-  ### 🌐 Web Development
-  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-  ### 🔒 Cybersecurity Tools
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white)
-
-  ### 🛠️ System & Tools
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Windows Terminal](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-  ### 🧰 Development Essentials
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Hyper-V](https://img.shields.io/badge/Hyper_V-0078D4?style=for-the-badge&logo=hyperv&logoColor=white)
-</div>
-
-<!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect</h2>
+<!-- CLOUD PLATFORMS -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">CLOUD PLATFORMS</span> <span style="color:#F0F0F0;">]</span>
+</h3>
 <p align="center">
-  <a href="mailto:alexandreu.adc@proton.me">
-    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail">
-</a>
-  <a href="https://www.linkedin.com/in/alex-andreu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://tryhackme.com/r/p/4lex.42">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe">
-</a>
-  <a href="https://discordapp.com/users/4lex.42">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+  <img src="https://img.shields.io/badge/Microsoft_Azure(IaaS/PaaS/SaaS)-2b2b2b?style=flat-square&logo=microsoft-azure&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Microsoft_365-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/SharePoint-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
 </p>
 
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer">
+<!-- INFRASTRUCTURE AS CODE & AUTOMATION -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">AUTOMATION & IaC</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zero--Touch_Provisioning(ZTP)-2b2b2b?style=flat-square&logo=ansible&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Windows_Autopilot-2b2b2b?style=flat-square&logo=windows&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Bash-2b2b2b?style=flat-square&logo=gnu-bash&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Git/GitHub-2b2b2b?style=flat-square&logo=git&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/C-2b2b2b?style=flat-square&logo=c&logoColor=cccccc" />
+</p>
+
+<!-- VIRTUALIZATION & HYBRID ENVIRONMENTS -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">VIRTUALIZATION & HYBRID</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Virtual_Machines-2b2b2b?style=flat-square&logo=virtualbox&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/On--Premise/Cloud_Hybrid-2b2b2b?style=flat-square&logo=cloud&logoColor=cccccc" />
+</p>
+
+<!-- NETWORKING -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">NETWORKING</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Network_Administration-2b2b2b?style=flat-square&logo=cisco&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/TCP/IP-2b2b2b?style=flat-square&logo=internetarchive&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/VPN_Tunnels-2b2b2b?style=flat-square&logo=openvpn&logoColor=cccccc" />
+</p>
+
+<!-- SECURITY -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">SECURITY</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Security-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/ESET_Administration-2b2b2b?style=flat-square&logo=eset&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Firewalls/Hardening-2b2b2b?style=flat-square&logo=firewall&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Active_Directory-2b2b2b?style=flat-square&logo=microsoft&logoColor=cccccc" />
+</p>
+
+<!-- OPERATING SYSTEMS -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">OPERATING SYSTEMS</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GNU/Linux-2b2b2b?style=flat-square&logo=linux&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Windows_Server-2b2b2b?style=flat-square&logo=windows&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Windows_10/11-2b2b2b?style=flat-square&logo=windows&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/macOS-2b2b2b?style=flat-square&logo=apple&logoColor=cccccc" />
+</p>
+
+<!-- MONITORING & SUPPORT -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">MONITORING & SUPPORT</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardware_Diagnosis-2b2b2b?style=flat-square&logo=hardware&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Technical_Support-2b2b2b?style=flat-square&logo=support&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Documentation-2b2b2b?style=flat-square&logo=readthedocs&logoColor=cccccc" />
+</p>
+
+<!-- ADDITIONAL TOOLS (WEB, MULTIMEDIA) -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">ADDITIONAL TOOLS</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/CSS3-2b2b2b?style=flat-square&logo=css3&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=cccccc" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere-2b2b2b?style=flat-square&logo=adobe-premiere-pro&logoColor=cccccc" />
+</p>
+
+<!-- Divisor rojo -->
+<pre align="center" style="color:#8B0000;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
+
+<!-- METHODOLOGY (soft skills) -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">METHODOLOGY</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center" style="color:#cccccc; font-family: monospace;">
+  ⚡ P2P knowledge sharing · Zero-touch mindset · Documentation-first · Automation-first
+</p>
+
+<!-- CONTACT (enlaces funcionales) -->
+<h3 align="center">
+  <span style="color:#F0F0F0;">[</span> <span style="color:#8B0000;">ESTABLISH CONNECTION</span> <span style="color:#F0F0F0;">]</span>
+</h3>
+<p align="center">
+  <a href="mailto:alexandreu.adc@proton.me"><img src="https://img.shields.io/badge/ProtonMail-2b2b2b?style=for-the-badge&logo=protonmail&logoColor=cccccc" /></a>
+  <a href="https://www.linkedin.com/in/alex-andreu/"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=cccccc" /></a>
+  <a href="https://tryhackme.com/r/p/4lex.42"><img src="https://img.shields.io/badge/TryHackMe-2b2b2b?style=for-the-badge&logo=tryhackme&logoColor=cccccc" /></a>
+  <a href="https://discordapp.com/users/4lex.42"><img src="https://img.shields.io/badge/Discord-2b2b2b?style=for-the-badge&logo=discord&logoColor=cccccc" /></a>
+</p>
+
+<!-- FOOTER con contador rojo sangre -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=4leX-42&color=8B0000&style=flat-square&label=ACCESS+LOG" alt="Profile views" />
+  <br>
+  <sub><span style="color:#333;">$> whoami && pwd && echo "secure"</span></sub>
+</div>
